@@ -1,0 +1,26 @@
+
+body{
+    background-color: bisque;
+}
+
+.title-color{
+    color: lightcoral;
+}
+
+.link{
+    color: rgb(225, 133, 133);
+}
+
+.styling{
+    color: rgb(73, 189, 189);
+}
+
+h5{
+    font-size: 12px;
+    color: rgb(237, 191, 136);
+}
+
+.text{
+    color:rgb(198, 111, 161);
+}
+
